@@ -1,4 +1,4 @@
-# Cardano-Booker
+# Room-Booker
 ### **Room-Booker: Ứng dụng đặt phòng khách sạn phi tập trung trên Cardano**  
 
 #### **Tổng quan**
